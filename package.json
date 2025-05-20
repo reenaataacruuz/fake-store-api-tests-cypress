@@ -1,0 +1,15 @@
+{
+  "name": "fake-store-api-tests-cypress",
+  "version": "1.0.0",
+  "description": "Este repositório contém testes automatizados de API usando [Cypress](https://www.cypress.io/) com a [Fake Store API](https://fakestoreapi.com/). É um projeto voltado para demonstração de habilidades em automação de testes RESTful.",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^14.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx cypress open"
+  },
+  "author": "",
+  "license": "ISC"
+}
